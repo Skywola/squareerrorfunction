@@ -42,7 +42,7 @@ plt.ylabel('Number of Craters', fontsize=13)
 plt.title('Craters Per Region Uprange')
 ax = plt.gca()
 ax.set_facecolor('purple')
-plt.show()
+plt.show()  # Comment this out before proceeding onward.
 
 
 
